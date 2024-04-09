@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: my-configmap
+data:
+  ENV_VAR1: narine
+  ENV_VAR2: mehrabyan
